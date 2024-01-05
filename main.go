@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"testgo1/pack1"
+
+	"github.com/hb-0/testgo1/pack1"
 )
 
 func main() {
